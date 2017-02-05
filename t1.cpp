@@ -13,6 +13,6 @@ int main()
     s1 = "\nabscs\n";
     cout << s1;
     int b = 1;
-    int c = 2;
+    int c = 3;
     return 0;
 }
